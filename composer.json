@@ -1,5 +1,5 @@
 {
-    "name": "dan-da/coinparams",
+    "name": "placecodex/coinparams",
     "description": "provides crypto currency specific information such as version numbers, DNS seeds, etc, available in JSON format",
     "license": "MIT",
 
